@@ -1,0 +1,16 @@
+segment_sources:
+  P51D218D5:
+    type: origin_type
+    relation: translation
+    language: en
+  P3E9716AE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  55d5dc29e1e945c4bb7540210cec01a8:
+    P51D218D5: c4a63f7f3eba4b9ebeca1e87d5c40d57
+    P3E9716AE: 11396319a4d94c7ba13d52039b21bdac
+  6b9697d1dd78489b9c07c9c47a939a55:
+    P51D218D5: 96f3ffef67b94c4597670eac345c8270
+    P3E9716AE: 21a293b7a6c248cf923e0aabd5d24e1e
